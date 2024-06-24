@@ -10,7 +10,7 @@ yum install unzip -y
 
 unzip sonarqube-8.9.6.50800.zip
 
-yum install java-openjdk11 -y
+yum install java-11* -y
 
 useradd sonar
 
